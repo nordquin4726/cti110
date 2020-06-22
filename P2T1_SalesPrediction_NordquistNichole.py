@@ -1,5 +1,5 @@
 #A brief description of the project
-#Date
+#06/22/2020
 #CTI-110 P2T1 - Sales Prediction
 #Nichole Nordquist
 
